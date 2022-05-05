@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repository](https://github.com/varonalearns/NFT-preview-card-component)
-- Live Site URL: [Vercel Live Link]()
+- Live Site URL: [Vercel Live Link](https://nft-preview-card-component-ivory-xi.vercel.app/)
 
 ## My process
 
